@@ -1,0 +1,1 @@
+self.__BUILD_MANIFEST = (function(a){return {"/color":[a],"/palette":[a]}}("static\u002Fchunks\u002F0b07a836ccd1df6ccb3b9f5e9eb049a03553d456.f19bb1cfce4ef8c93dc8.js"));self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()
